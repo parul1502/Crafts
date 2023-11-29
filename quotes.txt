@@ -1,0 +1,10 @@
+<article class="brick entry format-quote animate-this" >
+
+               <div class="entry-thumb">                  
+	               <blockquote>
+	                 	<p>"Clothing is the first step to building a character"</p>
+
+	                 	<cite>Sylvester Stallones</cite> 
+	               </blockquote>	          
+               </div>   
+</article> <!-- end article -->
